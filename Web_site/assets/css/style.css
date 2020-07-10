@@ -1,0 +1,17 @@
+/*globales*/
+.contenedor{
+    max-width: 1200px;
+    margin: 0 auto ;
+}
+/*Header*/
+header{
+    background-image: url(../images/12490.jpg);
+    background-position: center center;
+    background-size: cover;
+    height: 100vh;
+    min-height: 600px;
+}
+.barra{
+    display: flex;
+    justify-content: center;
+}
